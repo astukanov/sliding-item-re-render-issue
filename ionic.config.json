@@ -1,0 +1,7 @@
+{
+  "name": "sliding-item-re-render-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
